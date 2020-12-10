@@ -3,7 +3,6 @@ use rand::Rng;
 fn main(){
     // alive = true
     // dead = false
-    //5,11,17,23,29,35
     let mut tile = [false,false,false,false,false,false,
                     false,false,false,false,false,false,
                     false,false,false,false,false,false,
